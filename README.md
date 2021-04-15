@@ -1,2 +1,2 @@
 # SPOJ-Solutions
-Unlike my codeforce ad dmoj solutions, these are in C++.
+Unlike my codeforces and dmoj solutions, these are in C++.
